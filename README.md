@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **gitFlow, typesCript, react native, redux tool**
 
-- 👯 I’m looking to collaborate on **PF-app de ecuentros**
+- 👯 I’m looking to collaborate on **PF-app de encuentros**
 
 - 💬 Ask me about **React, Redux, JavaScript, PostgresSQL, Sequelize, Node.js**
 
