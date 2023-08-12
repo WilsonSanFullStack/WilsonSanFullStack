@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WilsonSanFullStack" alt="WilsonSanFullStack" /></a> </p>
 
-- 🔭 I’m currently working on [PI-Countries](https://github.com/WilsonSanFullStack/PiCountries)
+- 🔭 I’m currently working on [zoomvirtuel](https://github.com/zoomvirtuel)
 
 - 🌱 I’m currently learning **gitFlow, typesCript, react native, redux tool**
 
-- 👯 I’m looking to collaborate on **PF-app de encuentros**
+- 👯 I’m looking to collaborate on **a game**
 
 - 💬 Ask me about **React, Redux, JavaScript, PostgresSQL, Sequelize, Node.js**
 
 - 📫 How to reach me **clinicasystemlab@gmail.com**
 
-- ⚡ Fun fact **soy virgo**
+- ⚡ Fun fact **I`m virgo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
